@@ -2,7 +2,6 @@
 
 pip_install:
 	pip install tornado
-	pip install mock
 
 
 dev-run:
